@@ -1,0 +1,9 @@
+service:
+  host: "127.0.0.1"
+  port: "8080"
+db:
+  host: "127.0.0.1"
+  port: "3306"
+  name: "goweb_dev"
+  user: "root"
+  pass: "12345678"
